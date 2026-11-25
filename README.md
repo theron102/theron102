@@ -2,9 +2,13 @@
 ✦ Sobre mí
 <img src="assets/Sobre.png" align="right" width="260" alt="Sobre">
 Nombre: Gabriel Palomino Pinzón
+
 Estudio: Ingeniería de sistemas
+
 Enfoque: Full stack
+
 contacto: gapalominop@cuc.edu.co
+
 correo personal: gspp0525@gmail.com
 
 "Cree que puedes y ya estarás a medio camino."
