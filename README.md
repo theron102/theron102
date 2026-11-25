@@ -19,7 +19,7 @@ correo personal: gspp0525@gmail.com
 <table> <tr> <td> <h3>🪐 EcoRoute Logistics</h3> <p>SaaS para optimizar las rutas de entrega de flotas pequeñas (menos de 15 vehículos). Incluye panel del administrador, portal del conductor y cálculo de CO₂ ahorrado. React, Node.js/Express y PostgreSQL con PostGIS, desplegado en AWS.</p> <p><a href="[EcoRoute](https://github.com/EcoRoute-Logistics/EcoRoute-Logistics)">Ver repositorio →</a></p> </td> </tr> </table>
 <!-- ✦ INTERESES (2 tarjetas) ✦ -->
 ☾ Fuera del código
-<table> <tr> <td width="50%" align="center"> <img src="assets/interes-1.png" width="100%" alt="Escritura"><br> <b>✦ Escritura</b><br> Me gusta escribir. [Es una forma en la que puedo expresar lo que realme pienso y siento del mundo, dejandolo inmortalizado en un papel.] </td> <td width="50%" align="center"> <img src="assets/interes-2.png" width="100%" alt="Matemáticas"><br> <b>☾ Matemáticas</b><br> Me fascinan las matemáticas. [Simplemente es divertido] </td> </tr> </table>
+<table> <tr> <td width="50%" align="center"> <img src="assets/interes-1.png" width="100%" alt="Escritura"><br> <b>✦ Escritura</b><br> Me gusta escribir. [Es una forma en la que puedo expresar lo que realme pienso y siento del mundo, dejandolo inmortalizado en un papel.] </td> <td width="50%" align="center"> <img src="assets/matematicas" width="100%" alt="matematicas"><br> <b>☾ Matemáticas</b><br> Me fascinan las matemáticas. [Simplemente es divertido] </td> </tr> </table>
 <!-- ✦ LENGUAJES ✦ -->
 ✧ Lenguajes
 <div align="center">
