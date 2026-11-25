@@ -1,6 +1,6 @@
 <!-- PALETA NOCHE CÓSMICA Negro espacio #0B0B1A Azul medianoche #1B1F4B Morado nebulosa #8B5CF6 Azul eléctrico #3B82F6 Lavanda estelar #C4B5FD Lo que está entre [corchetes] o dice TU_... es para que lo cambies. Carpeta de imágenes: assets/ --> <!-- ✦ BANNER ✦ --> <!-- Para editar el texto del banner, abre assets/banner.svg --> <div align="center"> <img src="assets/banner.svg" width="100%" alt="Banner"> </div> <br> <!-- ✦ SOBRE MÍ ✦ -->
 ✦ Sobre mí
-<img src="assets/Sobre mí.png" align="right" width="260" alt="Sobre mí">
+<img src="assets/Sobre.png" align="right" width="260" alt="Sobre">
 Nombre: Gabriel Palomino Pinzón
 Estudio: Ingeniería de sistemas
 Enfoque: Full stack
